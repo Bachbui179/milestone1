@@ -33,7 +33,4 @@ def unload_truck(bins, truck):
 
         return truck
 
-
-load_truck(parcels, truckBins)
-# unload_truck(parcels, truckBins)
-
+print(parcels)
